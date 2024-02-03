@@ -1,22 +1,22 @@
-Given a text file file.txt, print just the 10th line of the file.
+Given a text file file.txt, print just the 10th line of the file.<br>
 
-Example:
+Example:<br>
 
-Assume that file.txt has the following content:
+Assume that file.txt has the following content:<br>
 
-Line 1<br><br>
-Line 2
-Line 3
-Line 4
-Line 5
-Line 6
-Line 7
-Line 8
-Line 9
-Line 10
-Your script should output the tenth line, which is:
+Line 1<br>
+Line 2<br>
+Line 3<br>
+Line 4<br>
+Line 5<br>
+Line 6<br>
+Line 7<br>
+Line 8<br>
+Line 9<br>
+Line 10<br>
+Your script should output the tenth line, which is:<br><br>
 
-Line 10
-Note:
-1. If the file contains less than 10 lines, what should you output?
-2. There's at least three different solutions. Try to explore all possibilities.
+Line 10<br>
+Note:<br>
+1. If the file contains less than 10 lines, what should you output?<br>
+2. There's at least three different solutions. Try to explore all possibilities.<br>
