@@ -4,7 +4,7 @@ Example:
 
 Assume that file.txt has the following content:
 
-Line 1
+Line 1<br><br>
 Line 2
 Line 3
 Line 4
